@@ -36,7 +36,11 @@ While on my phone call I also relayed this to Brennan.
 This problem is obviously something that goes hand in hand with the previous problem, so we will be working on it together as well, but it’s also something that I can work on more clearly on my own.
 He recommended me some books I could read to study up on the subjects, and today I went out and bought them.
 
+━━━━━━━━━━━━━━━━━
+
   ![Alt text](books.jpg)
+
+━━━━━━━━━━━━━━━━━
 
 This purchase doubles as interview prep and a quick break from the monotony at staring at my screen for hours on end.
 Next I went through the book a little and read for a good hour.
@@ -47,7 +51,11 @@ I think because of this I haven’t been able to memorize these methods as well 
 I read through many of the methods presented to me (to page 68) in the book and began breaking them down in my notes to understand them, next when I identified methods I’m bad at reciting I would copy them, with notes alongside.
 I was also, for the purpose of memorization, rewriting the parts of the function that I knew I needed to memorize better.
 
+━━━━━━━━━━━━━━━━━
+
   ![Alt text](notes.jpg)
+
+━━━━━━━━━━━━━━━━━
 
 I plan over the weekend and the next coming couple of weeks to fully read (and re-read) through this book to make sure I have these concepts down.
 
@@ -67,7 +75,11 @@ Next, almost supplementary to these other subjects today (as it hasn’t receive
 To my liking I like to present all the bits I’m working on with a similar aesthetic, meaning you can tell all the things presented by me are from me.
 I want my linkedin to match my resume to match my website to match my github. I’ve drawn out a little plan for this via sketches about how I’m going to work this into fruition.
 
+━━━━━━━━━━━━━━━━━
+
  ![Alt text](sketches.jpg)
+
+━━━━━━━━━━━━━━━━━
 
 These are all step-by-step changes that I can work on and implement throughout our remaining stay in my free time, that is aside from my personal page.
 Rather than relying on a CMS for my page I would like to build it from the ground up myself.
@@ -94,6 +106,7 @@ On a side note I also want to update my resume (again) !! This is a note so I do
 Finally, for extended learning, I signed up for, first, the required meetup, and second, another meetup that sounded interesting to me.
 It’s just a simple networking night, but it was in the AKQA building, which is (I think) going to be one of our internship places.
 This company actually interests me a lot so I want to go check it out and potentially make some cool new acquaintances.
+
 ━━━━━━━━━━━━━━━━━
 
 ![Alt text](ticket1.png)
