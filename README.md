@@ -6,10 +6,10 @@ _For this Friday project I thought it would be the best use of my time to spread
 
 I feel that some of my weaknesses are;_
 
-	* -verbally talking about my code.
-	* -memorizing syntax.
-	* -code/web design.
-	* -cohesiveness of my person brand.
+	* -✸ verbally talking about my code.
+	* -✸ memorizing syntax.
+	* -✸ code/web design.
+	* -✸ cohesiveness of my person brand.
 
  	_While I feel like I understand what my code is doing, often when I seek out help or try to explain to others what is exactly I’m doing, I truly don’t get my message across. In practicing with the group on white board questions this became further clear to me. I was having a hard time articulating what it was I was doing, something I feel was important to convey. The consequence of this was that I was also over-complicating ideas in my head, making things I knew easily how to solve unsolvable.
 
@@ -46,6 +46,6 @@ On a side note I also want to update my resume (again) !! This is a note so I do
 
 
  	Finally, for extended learning, I signed up for, first, the required meetup, and second, another meetup that sounded interesting to me. It’s just a simple networking night, but it was in the AKQA building, which is  (I think) going to be one of our internship places. This company actually interests me a lot so I want to go check it out and potentially make some cool new acquaintances._
-  
+
 ![Alt text](ticket1.png)
 ![Alt text](ticket2.png)
