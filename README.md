@@ -9,7 +9,7 @@ I feel that some of my weaknesses are:
 	* -✸ verbally talking about my code.
 	* -✸ memorizing syntax.
 	* -✸ code/web design.
-	* -✸ cohesiveness of my person brand.
+	* -✸ cohesiveness of my personal brand.
 
 ━━━━━━━━━━━━━━━━━
 
